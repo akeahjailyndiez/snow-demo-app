@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-09-15 15:03:25</sys_created_on>
+        <sys_id>f71e26da831f87504c4f1a30ceaad32c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_2222221_demo_app_test_records.x_2222221_demo_app.admin</sys_name>
+        <sys_package display_value="Demo App" source="x_2222221_demo_app">37f42ed683db87504c4f1a30ceaad3f2</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Demo App">37f42ed683db87504c4f1a30ceaad3f2</sys_scope>
+        <sys_security_acl display_value="x_2222221_demo_app_test_records">f31e26da831f87504c4f1a30ceaad322</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_f71e26da831f87504c4f1a30ceaad32c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-09-15 15:03:25</sys_updated_on>
+        <sys_user_role display_value="x_2222221_demo_app.admin" name="x_2222221_demo_app.admin">c0056ed683db87504c4f1a30ceaad337</sys_user_role>
+    </sys_security_acl_role>
+</record_update>
